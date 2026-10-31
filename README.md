@@ -17,4 +17,4 @@ Reference:
 Yuxing Hu, Hong Yu, Yaogang Geng. Meteorological Semantics-Guided Multi-Granularity Hebbian Spatiotemporal Graph Learning for Air Pollution Forecasting, 2026.
 
 State:
-This work has been submitted to the IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS). We will make our code publicly available upon acceptance.
+This work has been submitted to the Environmental Modelling & Software. We will make our code publicly available upon acceptance.
